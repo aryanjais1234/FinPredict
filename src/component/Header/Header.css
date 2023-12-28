@@ -1,0 +1,12 @@
+.logo{
+    width :18%;
+    padding: 0px;
+}
+
+img{
+    /* set to centre */
+    align-content: center;
+    margin: 1% 20%;
+    width: 18%;
+    height: 30px;
+}
